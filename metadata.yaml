@@ -1,0 +1,51 @@
+_repo: Essays-or-discourses-vol-2-of-4-b-Selected-from-the-works-of-Feyjoo-and-translated-from-the-S__71278
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brett, John
+    alias: Gentleman
+    deathdate: 1785
+    gutenberg_agent_id: '56149'
+    url: http://www.gutenberg.org/2009/agents/56149
+    wikipedia: https://en.wikipedia.org/wiki/John_Brett_(Royal_Navy_officer)
+creator:
+  author:
+    agent_name: Feijoo, Benito Jerónimo
+    aliases:
+    - Feijoo, Benito Jeronimo
+    - Feijoo, Jerónimo
+    - Feijoo, B. J. (Benito Jerónimo)
+    - Feijoo y Montenegro, Benito Geronymo
+    - Feijóo y Montenegro, Benito Jerónimo
+    - Feyjóo y Montenegro, Benito Jerónimo
+    - Feijóo de Montenegro, Benito Jerónimo
+    - Montenegro, Benito Jerónimo Feijóo y
+    birthdate: 1676
+    deathdate: 1764
+    gutenberg_agent_id: '56148'
+    url: http://www.gutenberg.org/2009/agents/56148
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benito_Jer%C3%B3nimo_Feij%C3%B3o_y_Montenegro
+    - https://es.wikipedia.org/wiki/Benito_Jer%C3%B3nimo_Feijoo
+description: ''
+gutenberg_issued: '2023-07-26'
+identifiers:
+  gutenberg: '71278'
+language: en
+pgterms:marc905: 20140811141816feijo
+pgterms:marc906: '1780'
+pgterms:marc907: gb
+production_note: Josep Cols Canals, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bJohn Brett, $c1780.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PQ'
+- GITenberg
+title: 'Essays, or discourses, vol. 2 (of 4) : $b Selected from the works of Feyjoo,
+  and translated from the Spanish'
+url: http://www.gutenberg.org/ebooks/71278
