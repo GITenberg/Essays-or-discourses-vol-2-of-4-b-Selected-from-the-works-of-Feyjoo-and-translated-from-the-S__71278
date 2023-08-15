@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '56149'
     url: http://www.gutenberg.org/2009/agents/56149
     wikipedia: https://en.wikipedia.org/wiki/John_Brett_(Royal_Navy_officer)
+covers:
+- cover_type: archival
+  image_path: 71278-h/images/cover.jpg
 creator:
   author:
     agent_name: Feijoo, Benito Jerónimo
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Benito_Jer%C3%B3nimo_Feij%C3%B3o_y_Montenegro
     - https://es.wikipedia.org/wiki/Benito_Jer%C3%B3nimo_Feijoo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71278#Essays-or-discourses-vol-2-of-4-b-Selected-from-the-works-of-Feyjoo-and-translated-from-the-S_
 gutenberg_issued: '2023-07-26'
 identifiers:
   gutenberg: '71278'
